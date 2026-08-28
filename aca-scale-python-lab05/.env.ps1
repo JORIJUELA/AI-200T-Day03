@@ -1,0 +1,7 @@
+$env:RESOURCE_GROUP = "ResourceGroup1"
+$env:ACA_ENVIRONMENT = "aca-env-9546e7a6"
+$env:CONTAINER_APP_NAME = "agent-api"
+$env:CONTAINER_APP_FQDN = "agent-api.agreeablestone-0f2582e1.eastus2.azurecontainerapps.io"
+$env:CONTAINER_APP_URL = "https://agent-api.agreeablestone-0f2582e1.eastus2.azurecontainerapps.io"
+$env:CONTAINER_IMAGE = "agent-api:v1"
+$env:LOCATION = "eastus2"
